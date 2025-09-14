@@ -3,6 +3,10 @@ A JavaScript app that allows the user to Type or Load Markdown formatted text in
 
 ---
 
+Video: https://www.youtube.com/watch?v=JmkKWgdGg9M
+
+---
+
 ![001](src/media/textures/screenshots/001.webp)  
 
 ![002](src/media/textures/screenshots/002.webp)  
