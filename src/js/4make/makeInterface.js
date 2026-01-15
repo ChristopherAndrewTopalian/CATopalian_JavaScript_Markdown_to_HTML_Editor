@@ -14,6 +14,14 @@ function makeInterface()
 
     //-//
 
+    subDiv.append(makeTitleOfApp());
+
+    //-//
+
+    subDiv.append(ce('br'));
+
+    //-//
+
     // button to load markdown file
     let loadButton = ce('button');
     loadButton.textContent = 'Load .md File';
@@ -121,7 +129,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father  
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026  
 // https://github.com/ChristopherTopalian  
 // https://github.com/ChristopherAndrewTopalian  
 // https://sites.google.com/view/CollegeOfScripting
